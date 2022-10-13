@@ -1,4 +1,4 @@
-![Manoj Banner Image](./banner.png)
+![Manoj Banner Image](./banner.jpeg)
 
 
 ### Hi there 👋
